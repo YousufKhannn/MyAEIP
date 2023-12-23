@@ -1,0 +1,2 @@
+# MyAEIP
+My static Website
